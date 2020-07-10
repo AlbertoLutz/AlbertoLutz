@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Olá!  Bem-vindo ao meu perfil.
+
+Sou web designer e desenvolvedor web front-end.
+Gosto dos princípios do design de interfaces e as regras de usabilidade, da ideia de layouts se encolhendo de acordo com o tamanho da tela, e de poder misturar duas paixões -códigos e cores- no desenvolvimento dos projetos.
+
+https://www.linkedin.com/in/alberto-lutz-dias/
+
