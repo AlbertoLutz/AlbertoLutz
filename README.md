@@ -5,19 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Lumis company, i'm front end developer.
+- 🌱 I’m currently learning Data Science and Machine Learning whti Python, and 
+analysis and systems development.
+- 📫 How to reach me: E-mail: alberbertolutzdias@gmail.com / Linkedin: https://www.linkedin.com/in/alberto-lutz-dias/
 -->
-Olá!  Bem-vindo ao meu perfil.
+Olá!  Seja bem-vindo(a) ao meu perfil.
+Hi!  Welcome to my profile.
 
 Sou web designer e desenvolvedor web front-end.
 Gosto dos princípios do design de interfaces e as regras de usabilidade, da ideia de layouts se encolhendo de acordo com o tamanho da tela, e de poder misturar duas paixões -códigos e cores- no desenvolvimento dos projetos.
 
-https://www.linkedin.com/in/alberto-lutz-dias/
+I'm a web designer and front-end web developer.
+I like the principles of interface design and usability rules, the idea of layouts shrinking according to the screen size, and being able to mix two passions -codes and colors- in the development of projects.
+
+
 
