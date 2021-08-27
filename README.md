@@ -24,7 +24,10 @@ I like the principles of interface design and usability rules, the idea of layou
 <code>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </code>
+
+[![AlbertoLutz GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoLutz)](https://github.com/AlbertoLutz/github-readme-stats)
 
 
 
