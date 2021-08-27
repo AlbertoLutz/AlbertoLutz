@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
 <!--
 **AlbertoLutz/AlbertoLutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
