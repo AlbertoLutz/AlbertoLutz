@@ -18,7 +18,7 @@ Gosto dos princípios do design de interfaces e as regras de usabilidade, da ide
 I'm a web designer and front-end web developer.
 I like the principles of interface design and usability rules, the idea of layouts shrinking according to the screen size, and being able to mix two passions -codes and colors- in the development of projects.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical)
+![AlbertoLutz GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoLutz&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
