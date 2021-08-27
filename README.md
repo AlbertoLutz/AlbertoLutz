@@ -22,7 +22,7 @@ I'm a web designer and front-end web developer.
 I like the principles of interface design and usability rules, the idea of layouts shrinking according to the screen size, and being able to mix two passions -codes and colors- in the development of projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical)
 
 
 <code>
